@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\bin\Debug\EmployeeEventsExcep.exe.config
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\bin\Debug\EmployeeEventsExcep.exe
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\bin\Debug\EmployeeEventsExcep.pdb
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\obj\Debug\EmployeeEventsExcep.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\obj\Debug\EmployeeEventsExcep.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\obj\Debug\EmployeeEventsExcep.exe
+C:\Users\lenovo\source\repos\EmployeeEventsExcep\EmployeeEventsExcep\obj\Debug\EmployeeEventsExcep.pdb

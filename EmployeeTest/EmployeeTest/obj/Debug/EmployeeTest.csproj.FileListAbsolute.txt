@@ -1,0 +1,7 @@
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\bin\Debug\EmployeeTest.exe.config
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\bin\Debug\EmployeeTest.exe
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\bin\Debug\EmployeeTest.pdb
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\obj\Debug\EmployeeTest.csprojAssemblyReference.cache
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\obj\Debug\EmployeeTest.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\obj\Debug\EmployeeTest.exe
+C:\Users\lenovo\Documents\Shubham\EmployeeTest\EmployeeTest\obj\Debug\EmployeeTest.pdb

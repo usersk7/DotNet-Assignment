@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\bin\Debug\Assignment3-Inheritance.exe.config
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\bin\Debug\Assignment3-Inheritance.exe
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\bin\Debug\Assignment3-Inheritance.pdb
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\obj\Debug\Assignment3-Inheritance.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\obj\Debug\Assignment3-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\obj\Debug\Assignment3-Inheritance.exe
+C:\Users\lenovo\source\repos\Assignment3-Inheritance\Assignment3-Inheritance\obj\Debug\Assignment3-Inheritance.pdb

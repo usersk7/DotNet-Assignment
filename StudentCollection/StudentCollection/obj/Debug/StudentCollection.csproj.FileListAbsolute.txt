@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\bin\Debug\StudentCollection.exe.config
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\bin\Debug\StudentCollection.exe
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\bin\Debug\StudentCollection.pdb
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\obj\Debug\StudentCollection.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\obj\Debug\StudentCollection.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\obj\Debug\StudentCollection.exe
+C:\Users\lenovo\source\repos\StudentCollection\StudentCollection\obj\Debug\StudentCollection.pdb
